@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/theuds/public_html/
+    - export DEPLOYPATH=/home/theuds/dev.theultimatedevelopers.com/
     - /bin/cp -R * $DEPLOYPATH
